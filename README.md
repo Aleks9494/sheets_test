@@ -13,3 +13,5 @@
 работоспособности кода.
 
 Заранее спасибо.
+
+https://docs.google.com/spreadsheets/d/18e4-wkWTzhv3H_x0HxSLWTURYDJ-HIpHjA9z6TtW7fE/edit#gid=1213298757
